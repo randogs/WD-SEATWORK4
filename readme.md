@@ -60,14 +60,10 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-  unique and engaging design theme for my landing page and feature pages
-- Whats the purpose
-  the purpose would be showcasing may features and a landing page in my website
-- What are key components
-  landing page, features
-- What technology used and how it is used
-  html, css, java script
+- What is the project- unique and engaging design theme for my landing page and feature pages
+- Whats the purpose- the purpose would be showcasing may features and a landing page in my website
+- What are key components- landing page, features
+- What technology used and how it is used- html, css, java script
 
 ### Key Components
 <!-- TODO: List of Key Components -->
