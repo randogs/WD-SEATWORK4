@@ -6,14 +6,14 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="https://media.wired.com/photos/5955ceabcbd9b77a41915cf6/191:100/w_1280,c_limit/marvel-characters.jpg" alt="randogs" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Title</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  "I am Iron Man" 
 </div>
 
 <br />
@@ -61,9 +61,13 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+  unique and engaging design theme for my landing page and feature pages
 - Whats the purpose
+- the purpose would be showcasing may features and a landing page in my website
 - What are key components
+  landing page, features
 - What technology used and how it is used
+- html, css, java script
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -117,4 +121,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+resources
+https://codepen.io/
